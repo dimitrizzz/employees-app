@@ -2,7 +2,6 @@
 
 This is a small React application that displays a list of employees and allows basic interaction such as searching, filtering, and viewing employee details.
 
-The goal of this project was to build a simple but clean UI using modern React tools and best practices.
 
 ## Live Demo
 
