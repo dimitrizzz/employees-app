@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "fullName": "Gerasimos Pappas",
+    "department": "IT",
+    "email": "gpappas@company.gr",
+    "status": "Active",
+    "hireDate": "2021-02-10",
+    "notes": "Developer"
+  },
+  {
+    "id": 2,
+    "fullName": "Maria Dimitriou",
+    "department": "HR",
+    "email": "mdimitriou@company.gr",
+    "status": "Active",
+    "hireDate": "2018-05-20",
+    "notes": ""
+  },
+  {
+    "id": 3,
+    "fullName": "Kostas Antoniou",
+    "department": "Accounting",
+    "email": "kantoniou@company.gr",
+    "status": "Active",
+    "hireDate": "2020-11-12",
+    "notes": "Logistis"
+  },
+  {
+    "id": 4,
+    "fullName": "Eleni Kouraki",
+    "department": "Sales",
+    "email": "ekouraki@mail.com",
+    "status": "Active",
+    "hireDate": "2022-03-01",
+    "notes": "Poliseis"
+  },
+  {
+    "id": 5,
+    "fullName": "Giannis Makris",
+    "department": "IT",
+    "email": "gmakris@company.gr",
+    "status": "Inactive",
+    "hireDate": "2019-08-15",
+    "notes": "Left in 2023"
+  },
+  {
+    "id": 6,
+    "fullName": "Anna Nikolaou",
+    "department": "Marketing",
+    "email": "anikolaou@company.gr",
+    "status": "Active",
+    "hireDate": "2023-01-10",
+    "notes": "Social media"
+  },
+  {
+    "id": 7,
+    "fullName": "Petros Ladas",
+    "department": "Warehouse",
+    "email": "pladas@company.gr",
+    "status": "Active",
+    "hireDate": "2021-06-25",
+    "notes": "Apothiki"
+  },
+  {
+    "id": 8,
+    "fullName": "Sofia Mela",
+    "department": "HR",
+    "email": "smela@company.gr",
+    "status": "Active",
+    "hireDate": "2020-02-14",
+    "notes": "Assistant"
+  },
+  {
+    "id": 9,
+    "fullName": "Dimitris Raptis",
+    "department": "Sales",
+    "email": "draptis@mail.com",
+    "status": "Active",
+    "hireDate": "2022-10-05",
+    "notes": "External sales"
+  },
+  {
+    "id": 10,
+    "fullName": "Katerina Soti",
+    "department": "Accounting",
+    "email": "ksoti@company.gr",
+    "status": "Active",
+    "hireDate": "2017-12-01",
+    "notes": "Senior"
+  }
+]
